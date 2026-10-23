@@ -1,0 +1,6 @@
+.gitignore	389 bytes
+CITATION.cff	382 bytes
+README.md	4183 bytes
+docs/REPRODUCIBILITY_AUDIT.md	3028 bytes
+notebooks/AFCNet_Implementation.ipynb	348299 bytes
+requirements.txt	189 bytes

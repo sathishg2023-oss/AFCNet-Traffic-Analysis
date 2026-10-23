@@ -1,0 +1,13 @@
+# Core runtime (tested versions should be pinned after a clean reproduction)
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+Pillow
+kagglehub
+scikit-image
+thop
+seaborn

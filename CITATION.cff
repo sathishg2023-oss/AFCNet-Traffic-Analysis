@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the AFCNet manuscript and the repository version you used. Add the final bibliographic metadata when the paper is published."
+title: "AFCNet: Attention Fusion Counting Network for Multistage Traffic Scene Analysis"
+authors:
+  - family-names: Sathish
+    given-names: G
+  - family-names: Murali
+    given-names: S

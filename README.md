@@ -28,7 +28,7 @@ The UA-DETRAC data itself is not included in this repository. Follow the dataset
 
 ## Model scope
 
-The notebook includes a MobileNetV3-based AFCNet counting model with attention/fusion components, count-derived density/severity analysis, scene-change experiments using L2 embedding distance and SSIM-based dissimilarity, and Grad-CAM visualization. The notebook reflects the supplied implementation; this packaging step does not claim that every cell has been refactored or that the entire notebook has been re-executed from a clean runtime.
+The notebook includes a MobileNetV3-based AFCNet counting model with attention/fusion components, count-derived density/severity analysis, scene-change experiments using L2 embedding distance and SSIM-based dissimilarity. The notebook reflects the supplied implementation; this packaging step does not claim that every cell has been refactored or that the entire notebook has been re-executed from a clean runtime.
 
 ## Reported results
 

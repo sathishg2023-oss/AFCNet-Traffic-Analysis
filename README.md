@@ -33,13 +33,3 @@ The notebook includes a MobileNetV3-based AFCNet counting model with attention/f
 ## Reported results
 
 Use only results regenerated from a documented run when preparing a paper or release. Record the dataset subset, exact frame/image IDs, split protocol, checkpoint selection, random seed, hardware, input size, batch size, and whether inference timing includes preprocessing and all branches. Do not treat previously saved notebook outputs as independently reproduced results.
-
-## Suggested GitHub release checklist
-
-- [ ] Confirm the notebook executes top-to-bottom in a fresh Colab runtime.
-- [ ] Confirm image and annotation filenames are paired by basename, not only by sorted list position.
-- [ ] Confirm the annotation file format and count derivation.
-- [ ] Record the exact dataset subset and train/validation/test split.
-- [ ] Save a final checkpoint and machine-readable evaluation CSV outside the Git repository unless small and intentionally public.
-- [ ] Re-run MAE/RMSE, classification metrics, scene-change metrics, parameter count, FLOPs, and FPS from the same documented checkpoint/configuration.
-- [ ] Add a license only after deciding what license applies to your code and confirming rights to all included material.

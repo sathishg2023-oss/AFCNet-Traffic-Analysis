@@ -4,7 +4,7 @@ This repository packages the AFCNet implementation notebook for version control 
 
 ## What is included
 
-- `notebooks/AFCNet_Implementation.ipynb` — source-preserving notebook, including vehicle-count regression, density/severity classification, scene-change analysis, and Grad-CAM experiments.
+- `notebooks/AFCNet_Implementation.ipynb` — source-preserving notebook, including vehicle-count regression, density/severity classification, scene-change analysis.
 - `requirements.txt` — Python packages used or imported by the notebook.
 - `docs/REPRODUCIBILITY_AUDIT.md` — important setup and validation notes identified during repository preparation.
 - `.gitignore` — excludes datasets, checkpoints, caches, and generated outputs.
